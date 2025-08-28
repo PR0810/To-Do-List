@@ -243,5 +243,6 @@ copies or substantial portions of the Software.
 **Made with ❤️ and ⛓️ by the Blockchain Community**
 
 *"Every task matters, every block counts!"*
-![Uploading Screenshot 2025-08-28 130159.png…]()
 
+
+<img width="1904" height="964" alt="Screenshot 2025-08-28 130159" src="https://github.com/user-attachments/assets/8640e308-ed65-4178-a729-54b6d0a396de" />
